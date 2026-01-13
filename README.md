@@ -7,11 +7,12 @@
 
 **Programming Languages:** `C` | `Python` | `java` | `Verilog` | `Embeedded C`|
 
-**Tools & Practics:** `Git` | `Xilinx Vivado' | `Arduino IDE` | `VS Code` | `MATLAB` | `Pycharm`
+**Tools & Practics:** `Git` | `Xilinx Vivado' | `Arduino IDE` | `VS Code` | `MATLAB` | `Pycharm` 
 
 ## 🚀 Projects  
 
 **Odd Parity-Bit Generator Using FSM:** https://github.com/DivyaniHazari-18/OddParity-bit-Generator-using-FSM
+
 **🌱 Real-Time Crop Monitoring and Alert System Using CropBot:** https://github.com/DivyaniHazari-18/Real-Time-Crop-Monitoring-and-Alert-System-Using-CropBot  
  
 ## 🎯 Interests  
@@ -21,11 +22,7 @@
 - Real-Time Monitoring Systems  
 
 ## 📫 Connect With Me  
-- **GitHub:** _https://github.com/DivyaniHazari-18_  
-- **LinkedIn:** *https://www.linkedin.com/in/hazaridivyani*
-- [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/hazaridivyani)
-- [![GitHub](https://img.icons8.com/material-outlined/48/github.png)](https://github.com/DivyaniHazari-18)
-
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/hazaridivyani)[![GitHub](https://img.icons8.com/material-outlined/48/github.png)](https://github.com/DivyaniHazari-18)
 
 ⭐ *“Learning by building real-world systems.”*  
 
