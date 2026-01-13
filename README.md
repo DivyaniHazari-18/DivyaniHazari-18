@@ -7,7 +7,7 @@
 
 **Programming Languages:** `C` | `Python` | `java` | `Verilog` | `Embeedded C`|
 
-**Tools & Practics:** `Git` | `Xilinx Vivado' | `Arduino IDE` | `VS Code` | `MATLAB` | `Pycharm` 
+**Tools & Practics:** `Git` | `Xilinx Vivado`  |  `Arduino IDE`  | `VS Code` | `MATLAB` | `Pycharm` |
 
 ## 🚀 Projects  
 
