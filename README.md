@@ -14,11 +14,13 @@
 **Odd Parity-Bit Generator Using FSM:** https://github.com/DivyaniHazari-18/OddParity-bit-Generator-using-FSM
 
 **🌱 Real-Time Crop Monitoring and Alert System Using CropBot:** https://github.com/DivyaniHazari-18/Real-Time-Crop-Monitoring-and-Alert-System-Using-CropBot  
- 
+
+**AI-Enhanced IoT Cradle Monitoring SSystem Predictive Infant Safety Alerts:** https://github.com/DivyaniHazari-18/AI-Enhanced-IoT-Cradle-Monitoring-System-with-Predictive-Infant-Safety-Alerts-
+
 ## 🎯 Interests  
+- VLSI Design Verification
 - Embedded Systems Development  
 - Internet of Things (IoT)  
-- VLSI & Core Electronics  
 - Real-Time Monitoring Systems  
 
 ## 📫 Connect With Me  
